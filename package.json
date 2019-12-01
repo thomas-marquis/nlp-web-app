@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "natural": "^0.6.3",
+    "ramda": "^0.26.1",
+    "ramda-adjunct": "^2.23.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
